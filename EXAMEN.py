@@ -23,3 +23,4 @@ class calcul(notes):
 
 calcul1 = calcul()
 calcul1.somme()
+"fin"
