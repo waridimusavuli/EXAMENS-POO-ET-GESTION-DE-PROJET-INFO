@@ -21,4 +21,5 @@ class calcul(notes):
         resultat = f"parmis le nombre que tu as entre le plus grand est {maximum}, et le minum {minimum} et la moyenne {moyenne} "
         print(resultat)
 
-       
+calcul1 = calcul()
+calcul1.somme()
